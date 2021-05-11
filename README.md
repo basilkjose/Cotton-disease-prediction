@@ -1,3 +1,4 @@
+![Screenshot (189)](https://user-images.githubusercontent.com/37875797/117844104-0ba67500-b29d-11eb-8083-e6ae2b31b85c.png)
 # Cotton-Disease-Prediction
 
 ## Table of Content
