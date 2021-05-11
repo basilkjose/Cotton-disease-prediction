@@ -1,4 +1,4 @@
-![Screenshot (189)](https://user-images.githubusercontent.com/37875797/117844104-0ba67500-b29d-11eb-8083-e6ae2b31b85c.png)
+
 # Cotton-Disease-Prediction
 
 ## Table of Content
@@ -25,6 +25,8 @@ There is a need for a system which can automatically detect the diseases as it c
 
 ## Dataset
 Dataset link - https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
+
+![Screenshot (189)](https://user-images.githubusercontent.com/37875797/117844104-0ba67500-b29d-11eb-8083-e6ae2b31b85c.png)
 
 In this dataset we are provided with images that belong to 4 classes : diseased leaf , diseased plant , fresh leaf and fresh plant. The objective of this study is to create a CNN model to help us predict whether these image of the leaf/plant belong to the diseased category or the healthy category.
 
