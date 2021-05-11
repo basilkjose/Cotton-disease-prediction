@@ -1,5 +1,6 @@
 
 # Cotton-Disease-Prediction
+![img1](https://user-images.githubusercontent.com/37875797/117844621-75bf1a00-b29d-11eb-9c7a-47ef88e9f50a.jpg)
 
 ## Table of Content
   * [Demo](#demo)
