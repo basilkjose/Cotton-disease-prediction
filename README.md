@@ -22,5 +22,9 @@ India is the largest producer of cotton in the world. The United States Departme
 ## Aim
 There is a need for a system which can automatically detect the diseases as it can bring revolution in monitoring large fields of crop and then plant leaves can be taken cure as soon as possible after detection of disease. 
 
+## Dataset
+Dataset link - [https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset]
+
+In this dataset we are provided with images that belong to 4 classes : diseased leaf , diseased plant , fresh leaf and fresh plant. The objective of this study is to create a CNN model to help us predict whether these image of the leaf/plant belong to the diseased category or the healthy category.
 
   
