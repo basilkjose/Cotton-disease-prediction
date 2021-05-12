@@ -40,7 +40,7 @@ First, we have done a basic image augmentation technique for the training datase
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/37875797/117935983-f1fb4100-b321-11eb-9d56-4829e7f28564.png)
 
-For transfer learning, we used three models.In these models we trained our dataset on top layer of the models and set other layers to non-trainable.
+For transfer learning, we used three models.In these models we trained our dataset on top custom layer of the models and set other layers to non-trainable.
 ```
 +-------+-------------------+------------------+------------------+---------------+
 | Sl.N0 |       Model       | Number of epochs | Total parameters |  val_accuracy |
