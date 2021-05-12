@@ -34,6 +34,7 @@ In this dataset we are provided with images that belong to 4 classes : diseased 
 
 ## Modeling
 > Keras transfer learning models -https://keras.io/api/applications/.
+
 For modeling purposes, we used only keras transfer learning models.
 First, we have done a basic image augmentation technique for the training dataset.
 
