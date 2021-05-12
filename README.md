@@ -9,7 +9,7 @@
   * [Dataset](#dataset)
   * [Modeling](#modeling)
   * [Directory Tree](#directory-tree)
-  * [Deployement](#deployement)
+  * [Deployment](#deployment)
   * [Technical Aspect](#technical-aspect)
   * [Future Scope](#future-scope)
   * [Technologies Used](#technologies-used)
@@ -33,6 +33,7 @@ Dataset link - https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 In this dataset we are provided with images that belong to 4 classes : diseased leaf , diseased plant , fresh leaf and fresh plant. The objective of this study is to create a CNN model to help us predict whether these image of the leaf/plant belong to the diseased category or the healthy category.
 
 ## Modeling
+Keras transfer learning models -https://keras.io/api/applications/
 For modeling purposes, we used only keras transfer learning models.
 First, we have done a basic image augmentation technique for the training dataset.
 
@@ -50,6 +51,7 @@ For transfer learning, we used three models.In these models we trained our datas
 |   3   | Inception Network |        20        |     22007588     |      0.95     |
 +-------+-------------------+------------------+------------------+---------------+
 ```
+we got above 95% accuracy using transfer learning models.Resnet152v2 produces the highest accuracy but for deployment purposes, we use the inception network because of fewer parameters in the network as compared to resnet. so we get a result in low latency.
 ## Directory Tree
 ```
 ├── Model
@@ -66,7 +68,7 @@ For transfer learning, we used three models.In these models we trained our datas
 |── procfile
   ```
 
-## Deployement
+## Deployment
 An implementation of a cotton leaf disease prediction machine learning model in TensorFlow. The application operates via a web interface where one may upload an image of a cotton plant/leaf and retrieve the prediction of whether or not it is infected.The app implemented by pthon flask framework
 
 ### Run your Flask APP #
