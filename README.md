@@ -37,7 +37,7 @@ For modeling purposes, we used only keras transfer learning models.
 First, we have done a basic image augmentation technique for the training dataset.
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/37875797/117935983-f1fb4100-b321-11eb-9d56-4829e7f28564.png)
-
+```
 +-------+-------------------+------------------+------------------+---------------+
 | Sl.N0 |       Model       | Number of epochs | Total parameters |  val_accuracy |
 +-------+-------------------+------------------+------------------+---------------+
@@ -47,7 +47,7 @@ First, we have done a basic image augmentation technique for the training datase
 +-------+-------------------+------------------+------------------+---------------+
 |   3   | Inception Network |        20        |     22007588     |      0.95     |
 +-------+-------------------+------------------+------------------+---------------+
-
+```
 ## Directory Tree
 ```
 ├── Model
