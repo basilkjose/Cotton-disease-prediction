@@ -46,3 +46,6 @@ In this dataset we are provided with images that belong to 4 classes : diseased 
 ├── requirement.txt
 |── procfile
   ```
+
+## Deployement
+
