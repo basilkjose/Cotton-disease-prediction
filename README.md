@@ -54,11 +54,12 @@ An implementation of a cotton leaf disease prediction machine learning model in 
    ```
    > pip3 install -r requirements.txt
    ```
- - Manually place the model file `model_resnet.hdf5` in the application directory (optional).
+ - Manually place the model file `model_inception.h5` in the application directory (optional).
  - Start the Flask server.
    ```
    > flask run
    ```
    Make sure that the `FLASK_APP` enviroment variable is either empty or set to `app.py`. You can manually do that by executing `export FLASK_APP=app.py`.
    
-   The application will try to locate the model i. e. `model_resnet.hdf5` in the current directory, and if it is not found, download it.
+   The application will try to locate the model i. e. `model_inception.h5` in the current directory, and if it is not found, download it.
+Note - model_inception.h5 not present in github repository because of larger size.
