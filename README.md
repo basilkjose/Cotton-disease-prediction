@@ -87,4 +87,4 @@ An implementation of a cotton leaf disease prediction machine learning model in 
 * Flask
 
 ## Credits
-[Kaggle](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset)- For conducting problem and providing this wonderful dataset.
+[Kaggle](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset) - For conducting problem and providing this wonderful dataset.
