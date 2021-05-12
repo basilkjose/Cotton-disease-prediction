@@ -49,4 +49,5 @@ In this dataset we are provided with images that belong to 4 classes : diseased 
 
 ## Deployement
 An implementation of a cotton leaf disease prediction machine learning model in TensorFlow. The application operates via a web interface where one may upload an image of a cotton plant/leaf and retrieve the prediction of whether or not it is infected.The app implemented by pthon flask framework
-    ####### Run
+    
+    **Run**
