@@ -49,13 +49,13 @@ For transfer learning, we used three models.In these models we trained our datas
 +-------+-------------------+------------------+------------------+---------------+
 |   2   |    Resnet152v2    |        20        |     58733060     |     0.959     |
 +-------+-------------------+------------------+------------------+---------------+
-|   3   | Inception Network |        20        |     22007588     |      0.95     |
+|   3   |    Inceptionv3    |        20        |     22007588     |      0.95     |
 +-------+-------------------+------------------+------------------+---------------+
 ```
 ### Inception - Loss and Accuracy #
 ![Screenshot (193)](https://user-images.githubusercontent.com/37875797/117940775-0a218f00-b327-11eb-9b30-bd90fb5a81ca.png)
 
-we got above 95% accuracy using transfer learning models.Resnet152v2 produces the highest accuracy but for deployment purposes, we use the inception network because of fewer parameters in the network as compared to resnet. so we get a result in low latency.
+we got above 95% accuracy using transfer learning models.Resnet152v2 produces the highest accuracy but for deployment purposes, we use the inceptionv3 network because of fewer parameters in the network as compared to resnet. so we get a result in low latency.
 ## Directory Tree
 ```
 ├── Model
