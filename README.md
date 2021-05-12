@@ -105,7 +105,7 @@ An implementation of a cotton leaf disease prediction machine learning model in 
 * Accessible to all the regional langauges in india.
 
 ## Technologies Used
-![Repo Size](https://img.shields.io/github/repo-size/DARK-art108/Cotton-Leaf-Disease-Prediction?style=for-the-badge)
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 * Jupyter Notebook
 * Tensorflow
 * Keras
