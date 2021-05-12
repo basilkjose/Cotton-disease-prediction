@@ -65,3 +65,11 @@ An implementation of a cotton leaf disease prediction machine learning model in 
    
    The application will try to locate the model i. e. `model_inception.h5` in the current directory, and if it is not found, download it.
 * Note - model_inception.h5 not present in github repository because of larger size.
+
+## Technical Aspect
+
+1) Training image dataset using transfer learning models.
+2) Deployement of model using flask.
+
+* For training purposes, we use tensorflow.keras library.
+* For deployment, we use Flask.
