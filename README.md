@@ -73,3 +73,8 @@ An implementation of a cotton leaf disease prediction machine learning model in 
 
 * For training purposes, we use tensorflow.keras library.
 * For deployment, we use Flask.
+
+## Future Scope
+* Deploy the model in any of the Paas
+* Developing front end that can recommend solution(pesticides and natural remedies) to the diseases.
+* Accessible to all the regional langauges in india.
