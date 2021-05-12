@@ -35,6 +35,7 @@ In this dataset we are provided with images that belong to 4 classes : diseased 
 ## Modeling
 For modeling purposes, we used only keras transfer learning models.
 First, we have done a basic image augmentation technique for the training dataset.
+
 ![Screenshot (191)](https://user-images.githubusercontent.com/37875797/117935983-f1fb4100-b321-11eb-9d56-4829e7f28564.png)
 
 ## Directory Tree
